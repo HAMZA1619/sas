@@ -1,0 +1,30 @@
+1. La Commande pwd
+Cette commande permet d’afficher l’emplacement ou on se situe actuellement.
+2. La Commande cd
+Cette commande permet de changer de répertoire courant et de se situer sur un autre
+3. La Commande ls
+Permet de lister les fichiers disponibles dans un répertoire, si appelé sans arguments, ls liste les fichiers du répertoire courant
+4. La Commande mkdir
+Cette commande permet de créer un répertoire.
+5. La Commande rmdir
+Cette commande permet de supprimer un répertoire.
+6. La Commande touch
+Cette commande permet de changer la date du dernier accès ou modification d’un fichier, mais permet également de créer un fichier vide.
+7. La Commande cp
+Cette commande permet de copier un fichier ou un répertoire.
+8. La Commande rm
+Cette commande permet de supprimer un fichier ou un répertoire. Cette commande est à utiliser avec précaution car avec l’option -f ou -rf, cette commande peut endommager voir supprimer tout votre système de fichiers de manière irréversible.
+9 La Commande mv
+Cette commande sert à renommer ou déplacer un fichier ou un répertoire.
+11. La Commande cat
+Cette commande permet d’afficher le contenu d’un fichier.
+12. La Commande echo
+Cette commande permet d’afficher une ligne.
+13. La Commande man
+Cette commande permet d’afficher le manuel d’aide de n’importe quelle autre commande disponible, ex : man ls
+14. La Commande ln
+Cette commande est utilisée pour créer un lien matériel ou symbolique (raccourci) vers un fichier ou un répertoire.
+15. La Commande more
+La commande more permet de visualiser le contenu d’un fichier page à page. Utilisez la touche entrée ou espace pour avancer l’affichage du contenu de votre fichier.
+
+ 
