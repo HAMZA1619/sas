@@ -1,3 +1,5 @@
+
+
 1. La Commande pwd
 Cette commande permet d’afficher l’emplacement ou on se situe actuellement.
 2. La Commande cd
@@ -27,4 +29,3 @@ Cette commande est utilisée pour créer un lien matériel ou symbolique (raccou
 15. La Commande more
 La commande more permet de visualiser le contenu d’un fichier page à page. Utilisez la touche entrée ou espace pour avancer l’affichage du contenu de votre fichier.
 
- 

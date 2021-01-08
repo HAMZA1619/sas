@@ -1,0 +1,35 @@
+git config
+Cette commande définit respectivement le nom de l'auteur et l'adresse e-mail à utiliser avec vos commits.
+
+git init
+Cette commande est utilisée pour démarrer un nouveau référentiel.
+
+git clone
+Cette commande est utilisée pour obtenir un référentiel à partir d'une URL existante.
+
+git add
+Cette commande ajoute un fichier ou plusieurs à la zone de préparation.
+
+git commit
+Cette commande enregistre ou capture le fichier de manière permanente dans l'historique des versions.
+
+git log
+Cette commande est utilisée pour répertorier l'historique des versions de la branche actuelle.
+
+git branch
+Cette commande répertorie toutes les branches locales du référentiel actuel.
+git branch [branch name]:  Cette commande supprime la branche de fonctionnalité.
+git checkout: cette commande cree une nouvelle branche et y bascule egalement.
+
+git push
+cette commande envoie les modifications validees de la branche principale à votre référentiel distant
+
+git pull
+cette commande récupére et fusionne les modifications sur le serveur distant dans votre répertoire de travail
+
+git checkout
+cette commande permet de passer d'une branche à une autre
+git checkout -b [branch name]: cette commande crée une nouvelle branche et bascule également.
+
+git status
+cette commande répertorie tous les fichiers qui doivent être validés.
